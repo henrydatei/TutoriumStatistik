@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.txt
+
+Übung 1 Statistik 1/media/texts/
+Übung 1 Statistik 1/media/videos/Übung 1 Statistik 1/1080p60/partial_movie_files/
