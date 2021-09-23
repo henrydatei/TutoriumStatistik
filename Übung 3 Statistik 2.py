@@ -16,7 +16,7 @@ class Themen(Scene):
 
         self.play(Write(ueberschrift))
         self.wait(1)
-        self.play(Write(list), run_time = 3)
+        self.play(Write(list), run_time = 1)
         self.wait(2)
         self.play(FadeOut(ueberschrift), FadeOut(list))
 
